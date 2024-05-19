@@ -1,6 +1,8 @@
 # Task Manager Web Application
 
 Welcome to the Task Manager web application! This project is designed to help you manage your tasks efficiently and stay organized. Whether you need to track your daily to-dos, prioritize tasks based on their importance, or edit and delete tasks as needed, this application has got you covered.
+
+
 ## Access Task-Manager through this link:
  [Task-Manager](https://task-manager-virendra-kumar.vercel.app/)
 
@@ -11,7 +13,6 @@ Welcome to the Task Manager web application! This project is designed to help yo
 - **Delete Tasks**: Remove tasks that are no longer needed.
 - **Toggle Task Completion**: Mark tasks as completed or pending.
 - **Filter and Sort**: Filter tasks by status (completed/pending) and sort tasks by priority or due date.
-- **Drag and Drop**: Reorder tasks by dragging and dropping them within the task list.
 
 ## Technologies Used
 - React.js: Frontend library for building user interfaces.
@@ -31,7 +32,6 @@ Welcome to the Task Manager web application! This project is designed to help yo
 3. Delete a task by clicking the "Delete" button next to the task.
 4. Mark a task as completed or pending by toggling the checkbox next to the task.
 5. Filter tasks by status (completed/pending) and sort tasks by priority or due date.
-6. Reorder tasks by dragging and dropping them within the task list.
 
 
 ## License
